@@ -29,7 +29,7 @@ func main() {
 	UpdateSalary(&emp, 60000.0)
 
 	// Update Name
-	UpdateName(&emp, "Festus")
+	UpdateName(&emp, "Wilhelm")
 
 	// Print updated salary
 	fmt.Println(emp)
